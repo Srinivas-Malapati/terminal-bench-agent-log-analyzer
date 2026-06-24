@@ -64,7 +64,7 @@ The output JSON must have exactly these top-level fields:
   "top_words_by_role": {},
   "per_file": {}
 }
-cat > tasks/agent-log-frequency-analyzer/instruction.md <<'MD'
+cat > tasks/agent-log-analyzer/instruction.md <<'MD'
 # Agent Log Frequency Analyzer
 
 You are working inside a Docker container in `/app`.
