@@ -1,0 +1,321 @@
+{
+  "malformed_records": 2,
+  "per_file": {
+    "corpus/csv/exported_messages.csv": {
+      "top_word": "checkout",
+      "unique_words": 22,
+      "word_count": 28
+    },
+    "corpus/jsonl/agent_runs.jsonl": {
+      "top_word": null,
+      "unique_words": 0,
+      "word_count": 0
+    },
+    "corpus/logs/agent_runtime.log": {
+      "top_word": "checkout",
+      "unique_words": 36,
+      "word_count": 51
+    },
+    "corpus/nested/more_logs/tool_events.jsonl": {
+      "top_word": null,
+      "unique_words": 0,
+      "word_count": 0
+    },
+    "corpus/nested/more_logs/worker_02.log": {
+      "top_word": "checkout",
+      "unique_words": 23,
+      "word_count": 31
+    },
+    "corpus/notes/product_feedback.md": {
+      "top_word": "checkout",
+      "unique_words": 29,
+      "word_count": 36
+    },
+    "corpus/notes/support_notes.txt": {
+      "top_word": "checkout",
+      "unique_words": 27,
+      "word_count": 37
+    }
+  },
+  "processed_files": 7,
+  "skipped_files": 3,
+  "top_words": [
+    {
+      "count": 23,
+      "word": "checkout"
+    },
+    {
+      "count": 16,
+      "word": "payment"
+    },
+    {
+      "count": 6,
+      "word": "timeout"
+    },
+    {
+      "count": 5,
+      "word": "info"
+    },
+    {
+      "count": 4,
+      "word": "customer"
+    },
+    {
+      "count": 4,
+      "word": "error"
+    },
+    {
+      "count": 4,
+      "word": "failed"
+    },
+    {
+      "count": 4,
+      "word": "tool"
+    },
+    {
+      "count": 3,
+      "word": "id"
+    },
+    {
+      "count": 3,
+      "word": "message"
+    },
+    {
+      "count": 3,
+      "word": "page"
+    },
+    {
+      "count": 3,
+      "word": "pago"
+    },
+    {
+      "count": 3,
+      "word": "retry"
+    },
+    {
+      "count": 2,
+      "word": "during"
+    },
+    {
+      "count": 2,
+      "word": "el"
+    },
+    {
+      "count": 2,
+      "word": "fall"
+    },
+    {
+      "count": 2,
+      "word": "gmail"
+    },
+    {
+      "count": 2,
+      "word": "issue"
+    },
+    {
+      "count": 2,
+      "word": "pending"
+    },
+    {
+      "count": 2,
+      "word": "pero"
+    }
+  ],
+  "top_words_by_role": {
+    "assistant": [
+      {
+        "count": 1,
+        "word": "checkout"
+      },
+      {
+        "count": 1,
+        "word": "errors"
+      },
+      {
+        "count": 1,
+        "word": "inspect"
+      },
+      {
+        "count": 1,
+        "word": "logs"
+      },
+      {
+        "count": 1,
+        "word": "payment"
+      },
+      {
+        "count": 1,
+        "word": "tool"
+      }
+    ],
+    "tool_error": [
+      {
+        "count": 1,
+        "word": "checkout"
+      },
+      {
+        "count": 1,
+        "word": "payment"
+      },
+      {
+        "count": 1,
+        "word": "respond"
+      },
+      {
+        "count": 1,
+        "word": "service"
+      },
+      {
+        "count": 1,
+        "word": "timeout"
+      }
+    ],
+    "unknown": [
+      {
+        "count": 18,
+        "word": "checkout"
+      },
+      {
+        "count": 13,
+        "word": "payment"
+      },
+      {
+        "count": 5,
+        "word": "info"
+      },
+      {
+        "count": 5,
+        "word": "timeout"
+      },
+      {
+        "count": 4,
+        "word": "customer"
+      },
+      {
+        "count": 4,
+        "word": "error"
+      },
+      {
+        "count": 3,
+        "word": "failed"
+      },
+      {
+        "count": 3,
+        "word": "id"
+      },
+      {
+        "count": 3,
+        "word": "message"
+      },
+      {
+        "count": 3,
+        "word": "retry"
+      },
+      {
+        "count": 3,
+        "word": "tool"
+      },
+      {
+        "count": 2,
+        "word": "during"
+      },
+      {
+        "count": 2,
+        "word": "el"
+      },
+      {
+        "count": 2,
+        "word": "gmail"
+      },
+      {
+        "count": 2,
+        "word": "issue"
+      },
+      {
+        "count": 2,
+        "word": "page"
+      },
+      {
+        "count": 2,
+        "word": "pago"
+      },
+      {
+        "count": 2,
+        "word": "pending"
+      },
+      {
+        "count": 2,
+        "word": "que"
+      },
+      {
+        "count": 2,
+        "word": "run"
+      }
+    ],
+    "user": [
+      {
+        "count": 3,
+        "word": "checkout"
+      },
+      {
+        "count": 1,
+        "word": "abierto"
+      },
+      {
+        "count": 1,
+        "word": "completed"
+      },
+      {
+        "count": 1,
+        "word": "failed"
+      },
+      {
+        "count": 1,
+        "word": "fall"
+      },
+      {
+        "count": 1,
+        "word": "mi"
+      },
+      {
+        "count": 1,
+        "word": "page"
+      },
+      {
+        "count": 1,
+        "word": "pago"
+      },
+      {
+        "count": 1,
+        "word": "payment"
+      },
+      {
+        "count": 1,
+        "word": "pero"
+      },
+      {
+        "count": 1,
+        "word": "says"
+      },
+      {
+        "count": 1,
+        "word": "sigue"
+      },
+      {
+        "count": 1,
+        "word": "tried"
+      },
+      {
+        "count": 1,
+        "word": "twice"
+      },
+      {
+        "count": 1,
+        "word": "when"
+      }
+    ]
+  },
+  "total_files_seen": 10,
+  "total_words": 183,
+  "unique_words": 100
+}

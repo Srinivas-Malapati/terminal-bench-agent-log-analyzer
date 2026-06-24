@@ -1,0 +1,4 @@
+{"role": "user", "content": "refund failed after payment reversal"}
+{"role": "tool_error", "content": "refund_api timeout refund retry needed"}
+{malformed hidden json line
+{"role": "assistant", "content": "Investigating refund and checkout state"}

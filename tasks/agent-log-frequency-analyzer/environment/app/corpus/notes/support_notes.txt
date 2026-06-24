@@ -1,0 +1,6 @@
+Customer reported checkout failure during payment.
+The checkout page shows timeout after payment confirmation.
+Cliente dijo que el pago falló, pero checkout still shows pending.
+ग्राहक ने कहा payment page freezes.
+Customer tried checkout again and payment failed again.
+Support marked issue as checkout reliability problem.

@@ -1,0 +1,6 @@
+2026-06-21T10:00:01Z INFO agent started run_id=run_001
+2026-06-21T10:00:05Z ERROR tool=gmail.send message="payment webhook timeout during checkout workflow"
+2026-06-21T10:00:06Z WARN retry attempt=1 tool=gmail.send reason="timeout"
+2026-06-21T10:00:08Z ERROR tool=calendar.create message="checkout scheduling failed due to validation"
+2026-06-21T10:00:10Z INFO usuario="pago completado" note="customer still sees checkout pending"
+2026-06-21T10:00:15Z INFO हिन्दी="भुगतान समस्या" message="payment and checkout need investigation"

@@ -1,0 +1,5 @@
+INFO worker received ticket about checkout checkout checkout
+ERROR payment processor returned retryable timeout
+DEBUG request_id=abc-123 session_id=999999
+INFO 日本語のメッセージ: 決済エラー payment issue mentioned by customer
+WARN checkout retry scheduled after payment timeout

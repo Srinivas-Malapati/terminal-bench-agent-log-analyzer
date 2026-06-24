@@ -1,0 +1,6 @@
+message_id,role,text,language,metadata
+m001,user,Checkout failed when I tried payment twice.,en,source=web
+m002,assistant,I will inspect the checkout logs and payment tool errors.,en,source=agent
+m003,user,Mi pago falló pero checkout sigue abierto.,es,source=web
+m004,tool_error,payment timeout: checkout service did not respond,en,tool=payments
+m005,user,भुगतान नहीं हुआ but checkout page says completed,hi,source=mobile
