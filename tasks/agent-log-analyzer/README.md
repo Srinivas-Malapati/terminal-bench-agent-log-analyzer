@@ -65,4 +65,3 @@ The task was validated with:
 
 This task is solvable but non-trivial. A shallow fix should fail because the analyzer must handle recursion, multiple file formats, malformed rows, role-aware counting, stopword filtering, deterministic ordering, and hidden verifier-created input.
 
-You have 7200 seconds to complete this task. Do not cheat by using online solutions or hints specific to this task.
