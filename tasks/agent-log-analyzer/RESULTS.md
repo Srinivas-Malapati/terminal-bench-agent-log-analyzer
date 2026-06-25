@@ -6,8 +6,8 @@
 | Check | Result |
 |---|---|
 | Static checks | Pass |
-| Oracle | Pass, reward 1.0 |
-| Nop | Fail as expected, reward 0.0 |
+| Oracle agent | Pass, reward 1.0 |
+| Nop agent | Fail as expected, reward 0.0 |
 
 ## Commands run
 
